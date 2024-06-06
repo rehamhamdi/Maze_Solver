@@ -15,7 +15,9 @@ users to understand and explore maze-solving techniques.
 # Algorithms
  It offers implementations of three maze-solving algorithms:
 •	Breadth First Search
+
 •	Depth First Search
+
 •	A* star Search
 
 # Keys
