@@ -1,6 +1,6 @@
 # Maze Solver
 # Abstract
-The maze solver system is a Java application designed to visualize and solve mazes
+Maze Solver system is a Java application designed to visualize and solve mazes
 using various algorithms.The system provides a graphical user interface (GUI)
 where users can interactively create, modify, and solve mazes of different
 sizes and complexities.
