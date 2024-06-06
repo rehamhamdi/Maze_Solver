@@ -20,6 +20,8 @@ users to understand and explore maze-solving techniques.
 
 # Keys
 •	Left Click -> Wall
+
 •	Rigth Click -> End (Target Node)
+
 •	Middle Click -> Start
 
